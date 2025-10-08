@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Juan 🌸
+# 👋 Hey there! I'm Dio 🌸
 **Aspiring AI Engineer | Full-Stack Developer | Product Thinker**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AI+Engineer+in+Training;Full+Stack+Dev;Always+Learning;Building+Creative+Tech+Experiences)](https://git.io/typing-svg)
