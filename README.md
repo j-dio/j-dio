@@ -43,10 +43,6 @@ I love building **useful, clean, and creative** products that merge design & cod
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjuan&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=juanjuan&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
 ---
 
 ### 🌱 Currently Learning
@@ -60,10 +56,6 @@ I love building **useful, clean, and creative** products that merge design & cod
 ### ✨ A Bit of Personality
 
 > _“Code what you wish existed.”_
-
-<p align="center">
-  <img src="assets/code.gif" width="300" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="coding gif"/>
