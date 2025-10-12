@@ -24,8 +24,7 @@ I love building **useful, clean, and creative** products that merge design & cod
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=yellow)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-💻 _I code in JavaScript, TypeScript, C++, and Python._  
-⚙️ _I build with React, Node.js, Express, and Flutter._  
+💻 _I code in JavaScript, C++, and Python._  
 🧠 _I design through Figma, deploy with Vercel, and manage with Git._
 
 ---
