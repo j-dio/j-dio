@@ -2,7 +2,7 @@
 
 **Aspiring AI Engineer | Full-Stack Developer | Product Thinker**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AI+Engineer+in+Training;Full+Stack+Dev;Always+Learning;Building+Creative+Tech+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AI+Engineer+in+Training;Full+Stack+Dev;React+%26+TypeScript;Systems+Programming;Always+Learning)](https://git.io/typing-svg)
 
 Welcome to my corner of the internet 👨‍💻  
 I love building **useful, clean, and creative** products that merge design & code.
@@ -15,6 +15,9 @@ I love building **useful, clean, and creative** products that merge design & cod
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### 🧰 Tools & Platforms
 
@@ -24,7 +27,7 @@ I love building **useful, clean, and creative** products that merge design & cod
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=yellow)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-💻 _I code in JavaScript, C++, and Python._  
+💻 _I code in JavaScript, C++, C, React, and TypeScript._
 🧠 _I design through Figma, deploy with Vercel, and manage with Git._
 
 ---
@@ -32,8 +35,8 @@ I love building **useful, clean, and creative** products that merge design & cod
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanjuan&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjuan&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=j-dio&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-dio&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
 </p>
 
 ---
@@ -41,8 +44,9 @@ I love building **useful, clean, and creative** products that merge design & cod
 ### 🌱 Currently Learning
 
 - 🧠 **AI Engineering fundamentals**
+- ⚛️ **Advanced React patterns & TypeScript**
+- 🔧 **Systems programming with C/C++**
 - ☁️ **Cloud & DevOps**
-- 🪄 **UI polish with Tailwind + Framer Motion**
 
 ---
 
