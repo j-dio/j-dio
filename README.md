@@ -49,8 +49,6 @@ I love building **useful, clean, and creative** products that merge design & cod
 
 - 🧠 **AI Engineering fundamentals**
 - ⚛️ **Advanced React patterns & TypeScript**
-- 🔧 **Systems programming with C/C++**
-- ☁️ **Cloud & DevOps**
 
 ---
 
