@@ -39,8 +39,8 @@ I love building **useful, clean, and creative** products that merge design & cod
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-jd08-readme-stats-9lle8ayr4.vercel.app/api?username=j-dio&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-jd08-readme-stats-b7axmic6y.vercel.app/api/top-langs/?username=j-dio&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=j-dio&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-dio&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
 </p>
 
 ---
