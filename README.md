@@ -29,10 +29,11 @@ I love building **useful, clean, and creative** products that merge design & cod
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=yellow)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 💻 _I code in JavaScript, C++, C, React, TypeScript, HTML, and CSS._
 🖥️ _I build desktop apps with Electron and web experiences with modern frameworks._
-🧠 _I design through Figma, deploy with Vercel, and manage with Git._
+🧠 _I design through Figma, deploy with Vercel and Netlify, and manage with Git._
 
 ---
 
@@ -65,7 +66,6 @@ I love building **useful, clean, and creative** products that merge design & cod
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-dio-a-lumacang/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/tcshslumacangjohndioa-6735s-projects)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tcshs.lumacang.johndio.a@gmail.com)
 
 ---
