@@ -19,8 +19,7 @@
 ### 👨‍💻 About
 
 - 🎓 **2nd-year Computer Science** student at the **University of the Philippines Cebu**
-- 🛠️ Active in **UPCSG** (UP Cebu Computer Science Guild) and **UPSTRUM**
-- 🚌 Co-founding a **mobility startup** in the Philippines — public transit routing for **Mindanao** (product & engineering lead)
+- 🛠️ Member of **UPCSG** (UP Cebu Computer Science Guild) and **UPSTRUM**
 - 🧠 I look for real-world friction first, then build the software that removes it
 
 ---
