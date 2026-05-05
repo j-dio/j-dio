@@ -18,9 +18,9 @@
 
 ### 👨‍💻 About
 
-- 🎓 **2nd-year Computer Science** student at the **University of the Philippines Cebu**
-- 🛠️ Member of **UPCSG** (UP Cebu Computer Science Guild) and **UPSTRUM**
-- 🧠 I look for real-world friction first, then build the software that removes it
+- **2nd-year Computer Science** student at the **University of the Philippines Cebu**
+- Member of **UPCSG** (UP Cebu Computer Science Guild) and **UPSTRUM**
+- I look for real-world friction first, then build the software that removes it
 
 ---
 
