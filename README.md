@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dio 👋</h1>
-<h3 align="center">Aspiring AI Engineer · Full-Stack Developer · Product Thinker</h3>
+<h3 align="center">Aspiring AI/Cloud Engineer · Full-Stack Developer · Product Thinker</h3>
 
 <p align="center">
   <a href="https://github.com/j-dio">
