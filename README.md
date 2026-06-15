@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/j-dio">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Code+what+you+wish+existed.;2nd-year+CS+%40+UP+Cebu;Co-founding+a+mobility+startup+for+Mindanao;Shipping+products+for+real+users.;Currently+learning+AWS+%26+AI+Engineering." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Code+what+you+wish+existed.;2nd-year+CS+%40+UP+Cebu;Shipping+products+for+real+users.;Currently+learning+AWS+%26+AI+Engineering." alt="Typing SVG" />
   </a>
 </p>
 
