@@ -124,11 +124,6 @@ JWT auth with bcrypt + httpOnly cookies and server-enforced 7-day session TTL. H
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=j-dio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-dio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=j-dio&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
