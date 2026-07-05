@@ -142,6 +142,7 @@ JWT auth with bcrypt + httpOnly cookies and server-enforced 7-day session TTL. H
 
 ![AWS](https://img.shields.io/badge/AWS_Cloud-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![AI Engineering](https://img.shields.io/badge/AI_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HOW TO GET A JOB]
 
 ---
 
