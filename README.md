@@ -129,10 +129,6 @@ JWT auth with bcrypt + httpOnly cookies and server-enforced 7-day session TTL. H
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=j-dio&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
   <img src="https://ghchart.rshah.org/7aa2f7/j-dio" alt="GitHub contribution graph" width="100%" />
 </p>
 
