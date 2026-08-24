@@ -1,65 +1,165 @@
-<h1 align="center">John Dio Lumacang</h1>
-<p align="center">Full-Stack Software Engineer · Web Developer</p>
+<h1 align="center">Hi, I'm Dio 👋</h1>
+<h3 align="center">Full-Stack Software Engineer · Web Developer</h3>
 
 <p align="center">
-  <a href="https://lumacang-dio.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/john-dio-a-lumacang/">LinkedIn</a> ·
-  <a href="mailto:tcshs.lumacang.johndio.a@gmail.com">Email</a>
+  <a href="https://github.com/j-dio">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Code+what+you+wish+existed.;Full-stack+SWE+%2B+web+dev+at+two+companies.;Incoming+3rd-year+CS+%40+UP+Cebu;I+ship+products+for+real+users%2C+not+toy+demos.;50%2B+users.+Zero+paid+promotion.;1st+place+at+UP+Cebu+Project+Expo+2025." alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://lumacang-dio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/j-dio"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/john-dio-a-lumacang/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tcshs.lumacang.johndio.a@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=j-dio&style=for-the-badge&color=7aa2f7&label=Profile+Views" />
 </p>
 
 ---
 
-### About
+### 👨‍💻 About
 
-I'm a CS student at UP Cebu, going into my third year, and I work as a full-stack software engineer and web developer at two companies at the same time. Most of what I build ends up in front of real users, which is the part I like. I ship client sites and apps on Hostinger, Vercel, and Railway, and I spend a fair amount of time on the boring parts nobody demos: sync that does not silently fail, auth that does not leak, rate limits that actually hold.
+```ts
+const dio = {
+  role:      ["Full-Stack Software Engineer", "Web Developer"],
+  working:   "two companies at the same time",
+  school:    "BS Computer Science @ UP Cebu (incoming 3rd year)",
+  honors:    "University Scholar · College Scholar",
+  focus:     ["production apps for real users", "AI engineering", "DX"],
+  shipping:  ["TapO(1)", "LoopIn", "RenTell"],
+  deploys:   ["Hostinger", "Vercel", "Railway"],
+  workflow:  ["TypeScript", "Python", "Claude", "Cursor"],
+  motto:     "Find real-world friction first, then build the software that removes it.",
+};
+```
 
-University Scholar and College Scholar at UP Cebu. Member of UPCSG, UPSTRUM, and UP Kadugong Bol-anon.
+- 🎓 Incoming **3rd-year CS** at the **University of the Philippines Cebu** — University & College Scholar (Dean's List equivalent)
+- 💼 Working as a **full-stack software engineer** and a **web developer** at two companies at once
+- 🚀 I build full-stack products that **run in production**, not throwaway demos
+- 🌐 I ship and maintain client sites on **Hostinger**, plus app deploys on Vercel and Railway
+- 🛠️ Member of **UPCSG**, **UPSTRUM**, and **UP Kadugong Bol-anon**
+- 🏆 **1st place** — UP Cebu Project Expo 2025 (SDG Category, out of 19 teams)
 
-### Stack
+---
 
-**Languages** TypeScript, Python, JavaScript, SQL, C++
+### 🧰 Tech Stack
 
-**Frontend** React, Next.js, Tailwind CSS, shadcn/ui
+**Languages**
 
-**Backend** Node.js, Express, Deno, Drizzle ORM, Zod
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Data** PostgreSQL, Supabase, Redis, SQLite
+**Frontend**
 
-**Infra and testing** AWS, Docker, Vercel, Railway, Hostinger, Playwright, Vitest
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-### Projects
+**Backend & APIs**
 
-**[TapO(1)](https://lumacang-dio.vercel.app)** · Next.js PWA that pulls Google Classroom and Moodle into one task list. 50+ users, no paid promotion. Web Push is hand-rolled to RFC 8291/8292 (ECDH, HKDF, AES-128-GCM) inside a Deno Edge Function, so it runs with zero Node dependencies. Both sources sync through `Promise.allSettled`, so one dead source never blocks the other.
-`Next.js` `TypeScript` `Supabase` `TanStack Query` `Serwist`
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
-**LoopIn** · Product feedback platform. Express API with 62 endpoints over a 14-table Postgres schema, running on Railway. Google and GitHub OAuth, rotating SHA-256 refresh tokens, a Redis sliding-window rate limiter using atomic Lua across 6 buckets, and presigned direct-to-S3 uploads. Backlog ranking runs on Gemini with an OpenRouter fallback and prompt-injection fencing.
-`React` `Express` `PostgreSQL` `Drizzle` `Redis` `Gemini` `AWS S3`
+**Databases**
 
-**RenTell** · Student housing and carinderia directory. 29-endpoint REST API on the Next.js App Router covering listings, messaging, visits, and reviews. JWT auth with bcrypt and httpOnly cookies, 7-day session TTL enforced server side. Concurrent conversation races are settled in the database with `ON CONFLICT DO NOTHING` and an `IS NOT DISTINCT FROM` fallback, with unread counts and read receipts on top.
-`Next.js` `TypeScript` `PostgreSQL (Neon)` `Zod` `Mapbox GL`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**CarbonCap** · Qt 6 desktop app for tracking carbon footprint. First place in the SDG category at the UP Cebu Project Expo 2025, out of 19 teams.
-`C++` `Qt 6`
+**Cloud, DevOps & Testing**
 
-**Qreate** · Electron desktop app that generates exams with AI. Stable at v1.0.0, running on Together AI and Groq.
-`Electron` `React` `Zustand` `SQLite`
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
-**SpermSanity** · Game jam entry that placed 10th of 24. Dark comedy about existential dread, reproductive biology, and a sentient flesh door named Doorethy.
-`Godot 4` `GDScript`
+---
 
-### Activity
+### 🚀 Featured Projects
+
+#### 📥 [TapO(1)](https://lumacang-dio.vercel.app) — Academic Task Aggregator
+> Next.js PWA syncing Google Classroom + Moodle in parallel. **50+ users, zero paid promotion.**
+
+Hand-rolled **Web Push** (RFC 8291/8292: ECDH + HKDF + AES-128-GCM) inside a Deno Edge Function — zero Node deps. Dual-source sync with `Promise.allSettled` fault isolation so one failing source never blocks the other.
+
+`Next.js` · `TypeScript` · `Supabase` · `TanStack Query` · `Serwist`
+
+#### 💬 LoopIn — Product Feedback Platform
+> TypeScript / Express API — **62 endpoints**, 14-table Postgres schema, deployed on Railway.
+
+Google/GitHub OAuth, rotating SHA-256 refresh tokens, a **Redis sliding-window rate limiter** (atomic Lua across 6 buckets), and presigned direct-to-S3 uploads. AI backlog ranker on **Gemini** with OpenRouter fallback and prompt-injection fencing.
+
+`React` · `Express` · `PostgreSQL` · `Drizzle` · `Redis` · `Gemini` · `AWS S3`
+
+#### 🏠 RenTell — Student Housing & Carinderia Directory
+> 29-endpoint REST API (Next.js 14 App Router) for listings, messaging, visits & reviews.
+
+JWT auth with bcrypt + httpOnly cookies and server-enforced 7-day session TTL. Handles **concurrent conversation races at the DB level** (`ON CONFLICT DO NOTHING` + `IS NOT DISTINCT FROM` fallback) with unread counts and read receipts on top.
+
+`Next.js` · `TypeScript` · `PostgreSQL (Neon)` · `Zod` · `Mapbox GL`
+
+#### 🏆 CarbonCap — Carbon Tracker · *1st Place, UP Cebu Project Expo 2025*
+> Qt 6 desktop app for carbon footprint tracking. Won SDG Category out of 19 teams.
+
+`C++` · `Qt 6`
+
+#### 📝 Qreate — AI Exam Generator
+> Electron desktop app generating exams with AI. Stable **v1.0.0**, powered by Together AI & Groq.
+
+`Electron` · `React` · `Zustand` · `SQLite`
+
+#### 👾 SpermSanity — Game Jam Entry · *Top 10, The Path Less Taken*
+> Dark comedy about existential dread, reproductive biology, and a sentient flesh door named Doorethy.
+
+`Godot 4` · `GDScript`
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=j-dio&theme=github-compact&hide_border=true&area=true&custom_title=Contributions" alt="Contribution graph" />
+  <img src="https://streak-stats.demolab.com?user=j-dio&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-### Certifications and awards
+<p align="center">
+  <img src="https://ghchart.rshah.org/7aa2f7/j-dio" alt="GitHub contribution graph" width="100%" />
+</p>
 
-- DataCamp: Building AI Agents with Google ADK, Scalable Agentic Systems, OpenAI API, Prompt Engineering
-- Udacity: AWS AI Practitioner Challenge
-- UP Cebu Project Expo 2025, SDG category, 1st place
-- UPCSG Game Jam 2026, 10th of 24 teams
+---
 
-### Currently learning
+### 🏅 Certifications & Achievements
 
-AWS cloud architecture and AI engineering.
+- 🤖 **DataCamp** — Building AI Agents with Google ADK · Scalable Agentic Systems · OpenAI API · Prompt Engineering
+- ☁️ **Udacity** — AWS AI Practitioner Challenge
+- 🥇 **UP Cebu Project Expo 2025** — SDG Category, 1st Place
+- 🎮 **UPCSG Game Jam 2026** — 10th of 24 teams
+
+---
+
+### 🌱 Currently Learning
+
+![AWS](https://img.shields.io/badge/AWS_Cloud-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AI Engineering](https://img.shields.io/badge/AI_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+<p align="center">
+  <em>"Code what you wish existed."</em>
+</p>
+
+<p align="center">
+  <a href="https://lumacang-dio.vercel.app"><img src="https://img.shields.io/badge/See_my_work-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/john-dio-a-lumacang/"><img src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tcshs.lumacang.johndio.a@gmail.com"><img src="https://img.shields.io/badge/Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
