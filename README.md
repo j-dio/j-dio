@@ -34,7 +34,7 @@ const dio = {
 ```
 
 - 🎓 Incoming **3rd-year CS** at the **University of the Philippines Cebu** — University & College Scholar (Dean's List equivalent)
-- 💼 Working as a **full-stack software engineer** and a **web developer** at two companies at once
+- 💼 **Full-stack software engineer** 
 - 🚀 I build full-stack products that **run in production**, not throwaway demos
 - 🌐 I ship and maintain client sites on **Hostinger**, plus app deploys on Vercel and Railway
 - 🛠️ Member of **UPCSG**, **UPSTRUM**, and **UP Kadugong Bol-anon**
