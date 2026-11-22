@@ -33,8 +33,26 @@ CarbonCap is a Qt 6 desktop app for tracking your carbon footprint. It won 1st p
 The tools I reach for most, colored by what they're for.
 
 <p align="center">
-  <img src="./profile/picks.svg" width="100%" alt="Guitar picks scattered on a table, one per tool. Languages: TypeScript, Python, JavaScript, SQL, C++. Frontend and apps: React, Next.js, Tailwind, shadcn/ui, Electron, Godot. Backend: Node.js, Express, Deno, Drizzle, Zod. Data: Postgres, Supabase, Redis, SQLite. Cloud and devops: AWS, Docker, Vercel, Railway, Hostinger. Testing: Playwright, Vitest." />
+  <img src="./profile/picks.svg" width="100%" alt="Guitar picks scattered on a table, one per tool I use. The same tools are listed under Show as a list." />
 </p>
+
+<details>
+<summary><b>Show as a list</b></summary>
+
+<!-- stack:start -->
+| Group | Tools |
+|:--|:--|
+| **Languages** | TypeScript · Python · JavaScript · SQL · C++ |
+| **Frontend** | React · Next.js · Tailwind · shadcn/ui · Electron · Godot · GSAP · Radix UI · Mapbox |
+| **Backend** | Node.js · Express · Deno · Drizzle · Zod · Resend · Stripe |
+| **Data** | Postgres · Supabase · Redis · SQLite |
+| **Cloud + devops** | AWS · Docker · Vercel · Railway · Hostinger · Turborepo · pnpm · GH Actions · Sentry |
+| **Quality** | Playwright · Vitest · Semgrep · Lighthouse |
+| **AI** | Claude API · Claude Code · Codex |
+| **Growth** | GA4 · Clarity · Search Console · GoHighLevel |
+<!-- stack:end -->
+
+</details>
 
 <br>
 

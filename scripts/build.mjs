@@ -1,6 +1,6 @@
 // Builds the hand-made SVGs in profile/. Run: node scripts/build.mjs
 // Edit the PEDALS / QUALITIES / PICKS arrays, re-run, commit.
-import { mkdirSync, writeFileSync } from "node:fs";
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
 const MONO = "ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace";
 const HEAVY = "'Arial Black','Helvetica Neue',Arial,sans-serif";
@@ -250,14 +250,14 @@ function sharedDefs() {
 // ---------- picks ----------
 // Group -> pick look. "fill" is a color or a pattern id.
 const GROUPS = {
-  languages: { label: "LANGUAGES", fill: "url(#tortoise)", ink: "#fbe9c8" },
-  frontend: { label: "FRONTEND", fill: "url(#pearl)", ink: "#26221a" },
-  backend: { label: "BACKEND", fill: "#1f6f6b", ink: "#f1e9d6" },
-  data: { label: "DATA", fill: "#c8553d", ink: "#fff1e6" },
-  ship: { label: "CLOUD + DEVOPS", fill: "#5a3f8f", ink: "#f1e9d6" },
-  test: { label: "QUALITY", fill: "#e3b341", ink: "#1b1608" },
-  ai: { label: "AI", fill: "#2f6db5", ink: "#f1f6ff" },
-  growth: { label: "GROWTH", fill: "#7fd1b9", ink: "#10241e" },
+  languages: { title: "Languages", label: "LANGUAGES", fill: "url(#tortoise)", ink: "#fbe9c8" },
+  frontend: { title: "Frontend", label: "FRONTEND", fill: "url(#pearl)", ink: "#26221a" },
+  backend: { title: "Backend", label: "BACKEND", fill: "#1f6f6b", ink: "#f1e9d6" },
+  data: { title: "Data", label: "DATA", fill: "#c8553d", ink: "#fff1e6" },
+  ship: { title: "Cloud + devops", label: "CLOUD + DEVOPS", fill: "#5a3f8f", ink: "#f1e9d6" },
+  test: { title: "Quality", label: "QUALITY", fill: "#e3b341", ink: "#1b1608" },
+  ai: { title: "AI", label: "AI", fill: "#2f6db5", ink: "#f1f6ff" },
+  growth: { title: "Growth", label: "GROWTH", fill: "#7fd1b9", ink: "#10241e" },
 };
 const PICKS = [
   ["TypeScript", "languages"], ["Python", "languages"], ["JavaScript", "languages"], ["SQL", "languages"], ["C++", "languages"],
@@ -346,4 +346,12 @@ mkdirSync(new URL("../profile/pedals/", import.meta.url), { recursive: true });
 for (const [i, svg] of [...tier(0), ...tier(1)]) writeFileSync(new URL(`../profile/pedals/${i + 1}.svg`, import.meta.url), svg);
 writeFileSync(new URL("../profile/amp.svg", import.meta.url), amp());
 writeFileSync(new URL("../profile/picks.svg", import.meta.url), picks());
-console.log("wrote profile/pedals/1-6.svg, profile/amp.svg, profile/picks.svg");
+// The readable stack list in the README comes from the same PICKS data, so the two never drift.
+const readme = new URL("../README.md", import.meta.url);
+const table = [
+  "| Group | Tools |", "|:--|:--|",
+  ...Object.entries(GROUPS).map(([k, g]) => `| **${g.title}** | ${PICKS.filter(([, gk]) => gk === k).map(([n]) => n).join(" · ")} |`),
+].join("\n");
+const md = readFileSync(readme, "utf8").replace(/(<!-- stack:start -->)[\s\S]*?(<!-- stack:end -->)/, `$1\n${table}\n$2`);
+writeFileSync(readme, md);
+console.log("wrote profile/pedals/1-6.svg, profile/amp.svg, profile/picks.svg, README stack table");
